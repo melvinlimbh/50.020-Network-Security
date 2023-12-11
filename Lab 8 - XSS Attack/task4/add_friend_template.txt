@@ -1,0 +1,24 @@
+http://www.seed-server.com/action/friends/add?friend=56&__elgg_ts=1701192574&__elgg_token=JYO-JjnfysjAPcuq4Y0cZA&__elgg_ts=1701192574&__elgg_token=JYO-JjnfysjAPcuq4Y0cZA
+Host: www.seed-server.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:83.0) Gecko/20100101 Firefox/83.0
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+X-Requested-With: XMLHttpRequest
+Connection: keep-alive
+Referer: http://www.seed-server.com/profile/alice
+Cookie: __gsas=ID=a36b1441b8ee1a87:T=1700484342:RT=1700484342:S=ALNI_MZ7eSP_02da96UnqN44BVzCCBIXOQ; pvisitor=c4a642dd-1202-424a-9760-d34f7504f83c; Elgg=nnjmv0hh5n6kl4anbgrod5ph0i
+
+GET: HTTP/1.1 200 OK
+Date: Tue, 28 Nov 2023 17:29:44 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Cache-Control: must-revalidate, no-cache, no-store, private
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+pragma: no-cache
+x-content-type-options: nosniff
+Vary: User-Agent
+Content-Length: 388
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json; charset=UTF-8
+---------------------
